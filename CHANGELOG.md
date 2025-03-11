@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-10)
+## Unreleased (2025-03-11)
+
+<section class="features">
+
+### Features
+
+-   [`d8322de`](https://github.com/stdlib-js/stdlib/commit/d8322de9306b0972be795fa9f4a5ec0173d9c568) - add C ndarray interface and refactor implementation for `stats/base/dnanstdevwd` [(#5406)](https://github.com/stdlib-js/stdlib/pull/5406)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`d8322de`](https://github.com/stdlib-js/stdlib/commit/d8322de9306b0972be795fa9f4a5ec0173d9c568) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dnanstdevwd` [(#5406)](https://github.com/stdlib-js/stdlib/pull/5406) _(by Prashant Kumar Yadav, Aayush Khanna)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
@@ -27,10 +38,12 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
 -   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
