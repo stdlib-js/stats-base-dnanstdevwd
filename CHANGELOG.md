@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-11)
+## Unreleased (2025-03-13)
 
 <section class="features">
 
@@ -16,12 +16,25 @@
 
 <!-- /.features -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#6002](https://github.com/stdlib-js/stdlib/issues/6002)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`dc9f39f`](https://github.com/stdlib-js/stdlib/commit/dc9f39f6f289ac4a78bdfb99571db2fbbdd6e7a2) - **chore:** address commit comments [(#6011)](https://github.com/stdlib-js/stdlib/pull/6011) _(by Deep Trivedi)_
 -   [`d8322de`](https://github.com/stdlib-js/stdlib/commit/d8322de9306b0972be795fa9f4a5ec0173d9c568) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dnanstdevwd` [(#5406)](https://github.com/stdlib-js/stdlib/pull/5406) _(by Prashant Kumar Yadav, Aayush Khanna)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
@@ -38,10 +51,11 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Deep Trivedi
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
 
